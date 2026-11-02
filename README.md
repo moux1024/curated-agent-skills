@@ -43,3 +43,13 @@
 
 ---
 *由 WorkBuddy 自动化整理生成，数据截取自 2026-11-02 的 GitHub 话题页。*
+
+## 已基于本清单反向优化自建 skill（2026-11-02）
+
+| 自建 skill | 参照来源 | 改动 |
+|------------|---------|------|
+| humanizer-zh v2.1.0 | blader/humanizer v3.1.0 | 同步两条总规则、结构/词表严重度分级、幸存模式复查步（1/2/6/8/19）、词表衰减说明；description 加触发推力 |
+| longform v0.1.1 | anthropics/skills 官方规范 | 修复死指针（xhs-replica）、专家包引用加降级说明、description 触发推力 |
+| xhs-story v1.1.1 | marketingskills/copywriting | Step 5 注入三问门（画面化/可证伪/竞品换位）、punch 配给、[NEED] 缺料标记 |
+| promo-atlas v1.0.2 | marketingskills/copywriting | copy-voice.md 新增换位测试与 punch 配额，接入交付前六问 |
+| novel-atlas v0.5.0 | — | 审计通过：渐进披露、copy 复查、references 均达标，无需改动 |
