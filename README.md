@@ -1,48 +1,55 @@
 # Curated Agent Skills（与本地会话内容相关）
 
-整理自 https://github.com/topics/agent-skills（2026-11-02），筛选标准：与本地工作流相关——中文长文写作、小红书/推广内容、可视化图解、跨会话改进。
+整理自 https://github.com/topics/agent-skills（2026-11-03），筛选标准：与本地工作流相关——儿童计算机架构教育游戏（Unity3D）开发、中文长文写作、小红书/推广内容、可视化图解、跨会话改进。
+
+## 开发工程（与 Unity3D 教育游戏开发相关）— 本次新增
+
+| 仓库 | Stars | 更新 | 说明 |
+|------|-------|------|------|
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 182k | 2026-10-29 | 让 agent 像"最懒的资深工程师"一样思考：能不写的代码就不写（YAGNI），适合克制地推进游戏原型 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 113k | 2026-11-01 | 生产级工程 skill 集，覆盖编码 agent 的核心开发流程 |
 
 ## 写作与去模板化
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [blader/humanizer](https://github.com/blader/humanizer) | 63k | 2026-10-28 | 去除 AI 生成痕迹的写作 skill。本地已有其中文定制版 `humanizer-zh`，仅作上游参考 |
+| [blader/humanizer](https://github.com/blader/humanizer) | 63.8k | 2026-10-28 | 去除 AI 生成痕迹的写作 skill。本地已有其中文定制版 `humanizer-zh`，仅作上游参考 |
 
 ## 营销与内容增长
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 57.7k | 2026-10-31 | CRO、文案、SEO、增长工程，与小红书推广工作流相关 |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 58k | 2026-10-31 | CRO、文案、SEO、增长工程，与小红书推广工作流相关 |
 
 ## 设计与反 AI slop
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 107k | 2026-10-31 | 给编码 agent 设计品味：艺术方向、参考图、浏览器检查 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 98.3k | 2026-10-31 | 设计词汇表，polish/critique/audit，拦截 AI slop |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 108k | 2026-10-31 | 给编码 agent 设计品味：艺术方向、参考图、浏览器检查 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 99.9k | 2026-11-01 | 设计词汇表，polish/critique/audit，拦截 AI slop |
 
-## 可视化与图解
+## 可视化与图解（与游戏架构讲解图相关）
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 92.2k | 2026-10-31 | 把想法/计划/代码库变成交互式图表，对 novel-atlas 类图解任务有参考价值 |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 63.5k | 2026-10-27 | 编辑级图表设计，45 种图型，自包含 HTML+SVG |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 92.6k | 2026-11-02 | 把想法/计划/代码库变成交互式图表——与"计算机架构教育"的图解需求直接相关 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 64.2k | 2026-11-01 | 编辑级图表设计，45 种图型，自包含 HTML+SVG |
 
 ## 跨会话自我改进
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [pskoett/self-improving-agent](https://github.com/pskoett/self-improving-agent) | 786 | 2026-10-31 | 跨会话沉淀 learnings/errors/corrections，持续优化历史会话效果。**已安装到本地** |
+| [pskoett/self-improving-agent](https://github.com/pskoett/self-improving-agent) | 786 | 2026-10-22 | 跨会话沉淀 learnings/errors/corrections，持续优化历史会话效果。**已安装到本地 v4.0.5，上游无更新** |
 
 ## 综合索引
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | 186k | 2026-10-28 | Anthropic 官方 Agent Skills 仓库 |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 78.5k | 2026-09-18 | Claude Skills 精选列表 |
+| [anthropics/skills](https://github.com/anthropics/skills) | 187k | 2026-10-28 | Anthropic 官方 Agent Skills 仓库 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 78.6k | 2026-09-18 | Claude Skills 精选列表 |
 
 ---
-*由 WorkBuddy 自动化整理生成，数据截取自 2026-11-02 的 GitHub 话题页。*
+*由 WorkBuddy 自动化整理生成，数据截取自 2026-11-03 的 GitHub 话题页。*
 
 ## 已基于本清单反向优化自建 skill（2026-11-02）
 
