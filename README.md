@@ -75,6 +75,9 @@
 
 ## Skill 审查记录
 
+## Skill 审查记录
+
+- 2026-11-06 20:51（权限解锁后首次真实统计）：存档读取权限已由用户批准，按修正模式（含 `@skill:` 带 args 变体）全量统计调用：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4）、novel-atlas 3 次（末次 10-29，保留）、xhs-story 1 次（末次 10-22，15 天未活跃且功能与活跃的 promo-atlas 重叠）→ **xhs-story 已移入 ~/.Trash/xhs-story-20261106（可恢复）**。humanizer-zh/longform 受用户级 MEMORY.md 保护，self-improving-agent 为自动化工具 skill，均不删。
 - 2026-11-06：会话存档访问第 4 次被权限拒绝，沿用 2026-11-02 调用统计（grill-me 7、novel-atlas 3、xhs-story 1、promo-atlas 1、humanizer-zh 0、longform 0）。无删除项：humanizer-zh/longform 受用户级 MEMORY.md 保护，其余均在近期有调用。topic 页新增 6 仓库，其中 morluto/rea、nexu-io/open-design 收录，4 个不相关或非 skill 过滤；未发现对已装 skill 的更好替代品；anthropics/skills 复查无会话记忆类新 skill，无需新装。
 - 2026-11-05：会话存档访问第 3 次被权限拒绝，沿用 2026-11-02 调用统计（grill-me 7、novel-atlas 3、xhs-story 1、promo-atlas 1、humanizer-zh 0、longform 0）。无删除项：humanizer-zh/longform 受用户级 MEMORY.md 保护，其余均在近期有调用；topic 页未发现对 humanizer-zh 的更好替代品（blader/humanizer 为英文上游，已作参考同步）。self-improving-agent 上游复查无更新，anthropics/skills 无会话记忆类新 skill。
 - 2026-11-04：会话存档访问再次被权限拒绝，沿用 2026-11-02 调用统计（grill-me 7、novel-atlas 3、xhs-story 1、promo-atlas 1、humanizer-zh 0、longform 0）。无删除项：humanizer-zh/longform 受用户级 MEMORY.md 保护，其余均在近期有调用。self-improving-agent 上游复查无更新。
