@@ -77,7 +77,7 @@
 | longform v0.1.1 | anthropics/skills 官方规范 | 修复死指针（xhs-replica）、专家包引用加降级说明、description 触发推力 |
 | xhs-story v1.1.1 | marketingskills/copywriting | Step 5 注入三问门（画面化/可证伪/竞品换位）、punch 配给、[NEED] 缺料标记（2026-11-06 已按不活跃规则移入废纸篓） |
 | promo-atlas v1.0.2 | marketingskills/copywriting | copy-voice.md 新增换位测试与 punch 配额，接入交付前六问 |
-| novel-atlas v0.5.0 | — | 2026-11-09 已按一周未活跃规则移入废纸篓 |
+| novel-atlas v0.5.0 | — | 2026-11-09 按一周未活跃规则移入废纸篓；2026-11-12 经用户裁决恢复（~/.workbuddy/skills/novel-atlas 完整还原 v0.5.0） |
 
 ## Skill 审查记录
 
