@@ -1,51 +1,51 @@
 # Curated Agent Skills（与本地会话内容相关）
 
-整理自 https://github.com/topics/agent-skills（2026-11-25），筛选标准：与本地工作流相关——儿童计算机架构教育游戏（Unity3D）开发、中文长文写作、小红书/推广内容、可视化图解、跨会话改进。
+整理自 https://github.com/topics/agent-skills（2026-11-26），筛选标准：与本地工作流相关——儿童计算机架构教育游戏（Unity3D）开发、中文长文写作、小红书/推广内容、可视化图解、跨会话改进。
 
 ## 开发工程（与 Unity3D 教育游戏开发相关）
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [morluto/rea](https://github.com/morluto/rea) | 477.1k | 2026-11-24 | 用 agent 逆向工程任何东西（应用行为到原生二进制）— 2026-11-06 新增，可为"理解模块行为"教学设计提供参照 |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 198.1k | 2026-11-22 | 让 agent 像"最懒的资深工程师"一样思考：能不写的代码就不写（YAGNI），适合克制地推进游戏原型 |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 120.2k | 2026-11-24 | 生产级工程 skill 集，覆盖编码 agent 的核心开发流程 |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 56.0k | 2026-11-24 | 确定性流水线 + LLM Agent 的混合代码审查，内置多语言规则集（NPE/线程安全/XSS/SQL注入）— 2026-11-05 新增 |
+| [morluto/rea](https://github.com/morluto/rea) | 478.5k | 2026-11-25 | 用 agent 逆向工程任何东西（应用行为到原生二进制）— 2026-11-06 新增，可为"理解模块行为"教学设计提供参照 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 198.7k | 2026-11-22 | 让 agent 像"最懒的资深工程师"一样思考：能不写的代码就不写（YAGNI），适合克制地推进游戏原型 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 120.4k | 2026-11-24 | 生产级工程 skill 集，覆盖编码 agent 的核心开发流程 |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 56.4k | 2026-11-25 | 确定性流水线 + LLM Agent 的混合代码审查，内置多语言规则集（NPE/线程安全/XSS/SQL注入）— 2026-11-05 新增 |
 
 ## 写作与去模板化
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [blader/humanizer](https://github.com/blader/humanizer) | 73.2k | 2026-11-19 | 去除 AI 生成痕迹的写作 skill。本地已有其中文定制版 `humanizer-zh`（v4.0.0 及 11-19 提交已于 2026-11-22 同步至本地 v2.2.0，2026-11-25 复查上游无新提交），仅作上游参考 |
+| [blader/humanizer](https://github.com/blader/humanizer) | 73.6k | 2026-11-19 | 去除 AI 生成痕迹的写作 skill。本地已有其中文定制版 `humanizer-zh`（v4.0.0 及 11-19 提交已于 2026-11-22 同步至本地 v2.2.0，2026-11-26 复查上游无新提交），仅作上游参考 |
 
 ## 营销与内容增长
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 62.5k | 2026-11-24 | CRO、文案、SEO、增长工程，与小红书推广工作流相关 |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 74.2k | 2026-11-24 | 跨 Reddit/X/YouTube/HN/Polymarket 及全网调研任一主题并合成有依据的综述 — 2026-11-23 新增，可用于推广选题与热点调研 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 89.6k | 2026-11-24 | 开源 AI 视频编辑器：写 HTML 渲染 MP4，可用 Claude Code/Codex 驱动（HeyGen 出品）— 2026-11-23 新进榜并收录，可作游戏宣传视频制作参照 |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 62.7k | 2026-11-25 | CRO、文案、SEO、增长工程，与小红书推广工作流相关 |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 75.1k | 2026-11-25 | 跨 Reddit/X/YouTube/HN/Polymarket 及全网调研任一主题并合成有依据的综述 — 2026-11-23 新增，可用于推广选题与热点调研 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 90.2k | 2026-11-26 | 开源 AI 视频编辑器：写 HTML 渲染 MP4，可用 Claude Code/Codex 驱动（HeyGen 出品）— 2026-11-23 新进榜并收录，可作游戏宣传视频制作参照 |
 
 ## 设计与反 AI slop
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 121.1k | 2026-11-24 | 给编码 agent 设计品味：艺术方向、参考图、浏览器检查 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 109.3k | 2026-11-24 | 协作式 AI 设计 agent 工作区（本地优先），可为游戏 UI/原型设计提供参照 — 2026-11-06 新增（注：工作区应用，非 skill） |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 116.3k | 2026-11-24 | 设计词汇表，polish/critique/audit，拦截 AI slop |
-| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 59.3k | 2026-11-15 | 面向设计师与工程师的 skill 集（Vaul/Sonner 作者出品）— 2026-11-12 新增，与游戏 UI 设计工作流相关 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 121.6k | 2026-11-25 | 给编码 agent 设计品味：艺术方向、参考图、浏览器检查 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 109.5k | 2026-11-25 | 协作式 AI 设计 agent 工作区（本地优先），可为游戏 UI/原型设计提供参照 — 2026-11-06 新增（注：工作区应用，非 skill） |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 116.9k | 2026-11-26 | 设计词汇表，polish/critique/audit，拦截 AI slop |
+| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 59.6k | 2026-11-15 | 面向设计师与工程师的 skill 集（Vaul/Sonner 作者出品）— 2026-11-12 新增，与游戏 UI 设计工作流相关 |
 
 ## 可视化与图解（与游戏架构讲解图相关）
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 99.5k | 2026-11-24 | 把想法/计划/代码库变成交互式图表——与"计算机架构教育"的图解需求直接相关 |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 72.0k | 2026-11-25 | 编辑级图表设计，45 种图型，自包含 HTML+SVG |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 99.9k | 2026-11-26 | 把想法/计划/代码库变成交互式图表——与"计算机架构教育"的图解需求直接相关 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 73.0k | 2026-11-25 | 编辑级图表设计，45 种图型，自包含 HTML+SVG |
 
 ## 跨会话自我改进与知识沉淀
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [pskoett/self-improving-agent](https://github.com/pskoett/self-improving-agent) | 792 | 2026-10-22 | 跨会话沉淀 learnings/errors/corrections，持续优化历史会话效果。**已安装到本地 v4.0.5；2026-11-25 复查上游无更新** |
+| [pskoett/self-improving-agent](https://github.com/pskoett/self-improving-agent) | 792 | 2026-10-22 | 跨会话沉淀 learnings/errors/corrections，持续优化历史会话效果。**已安装到本地 v4.0.5；2026-11-26 复查上游无更新** |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 39.0k | 2026-11-21 | 蒸馏任何人的思维方式（心智模型、决策启发式、表达DNA）— 2026-11-09 新增，与"专家构建/会话沉淀"工作流相关 |
 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 39.0k | 2026-11-24 | 把技术书 PDF 转成可用的 agent skill — 2026-11-09 新增，可作"教育内容→skill"转化参照 |
 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 33.5k | 2026-11-20 | 开源 AI 记忆平台，给 agent 持久长期记忆 — 2026-11-09 新增（注：平台/库，非 skill，暂仅收录不安装；2026-11-23 跌出 top-30） |
@@ -54,23 +54,23 @@
 
 | 仓库 | Stars | 更新 | 说明 |
 |------|-------|------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | 200.0k | 2026-11-16 | Anthropic 官方 Agent Skills 仓库 |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 58.7k | 2026-11-24 | Claude Code 优质资源精选（skills/plugins/工具）— 2026-11-05 新增 |
+| [anthropics/skills](https://github.com/anthropics/skills) | 200.5k | 2026-11-16 | Anthropic 官方 Agent Skills 仓库 |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 58.8k | 2026-11-26 | Claude Code 优质资源精选（skills/plugins/工具）— 2026-11-05 新增 |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 80.3k | 2026-09-18 | Claude Skills 精选列表 |
 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 54.0k | 2026-11-18 | 5,400+ 已筛选分类的 OpenClaw skill 索引 |
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 50.3k | 2026-11-24 | 2,955+ 可复用 agent skill，含本地目录发现与计划预览 |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 50.3k | 2026-11-25 | 2,955+ 可复用 agent skill，含本地目录发现与计划预览 |
 | [wshobson/agents](https://github.com/wshobson/agents) | 42.9k | 2026-11-24 | 一份 Markdown 适配多工具的 plugins/agents/skills/commands 集合 — 2026-11-09 新增 |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37.5k | 2026-11-15 | 1000+ 来自官方团队与社区的 agent skill 精选 — 2026-11-09 新增 |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37.6k | 2026-11-15 | 1000+ 来自官方团队与社区的 agent skill 精选 — 2026-11-09 新增 |
 
 ### 浏览后过滤未收录
 
-- paperclipai/paperclip（116.7k，工作 agent 管理应用）、CherryHQ/cherry-studio（53.8k，模型工作区应用）：均非 skill（nexu-io/open-design 收录但注明非 skill）
-- career-ops-hq/career-ops（84.6k，求职 agent）、reactive-resume/reactive-resume（46.1k，简历工具）、K-Dense-AI/scientific-agent-skills（58.4k，科学技能库）：与本地工作流无关
-- github/awesome-copilot（41.5k，Copilot 专用）、davila7/claude-code-templates（34.2k，组件注册表）、alirezarezvani/claude-skills（2026-11-12 跌出 top-30，此前 29.6k，大而全合集）、googleworkspace/cli（32.4k，Google Workspace CLI）：与本地工作流匹配度低 — 2026-11-09 补充
+- paperclipai/paperclip（117.1k，工作 agent 管理应用）、CherryHQ/cherry-studio（53.9k，模型工作区应用）：均非 skill（nexu-io/open-design 收录但注明非 skill）
+- career-ops-hq/career-ops（84.9k，求职 agent）、reactive-resume/reactive-resume（46.1k，简历工具）、K-Dense-AI/scientific-agent-skills（58.5k，科学技能库）：与本地工作流无关
+- github/awesome-copilot（41.6k，Copilot 专用）、davila7/claude-code-templates（34.2k，组件注册表）、alirezarezvani/claude-skills（2026-11-12 跌出 top-30，此前 29.6k，大而全合集）、googleworkspace/cli（32.4k，Google Workspace CLI）：与本地工作流匹配度低 — 2026-11-09 补充
 - topoteretes/cognee：2026-11-23 跌出 top-30（跨会话类目保留条目并注明）
 
 ---
-*由 WorkBuddy 自动化整理生成，数据截取自 2026-11-25 的 GitHub 话题页。*
+*由 WorkBuddy 自动化整理生成，数据截取自 2026-11-26 的 GitHub 话题页。*
 
 ## 已基于本清单反向优化自建 skill（2026-11-02）
 
@@ -82,17 +82,19 @@
 | promo-atlas v1.0.2 | marketingskills/copywriting | copy-voice.md 新增换位测试与 punch 配额，接入交付前六问 |
 | novel-atlas v0.5.0 | — | 2026-11-09 按一周未活跃规则移入废纸篓；2026-11-12 经用户裁决恢复（~/.workbuddy/skills/novel-atlas 完整还原 v0.5.0） |
 
-- 2026-11-25：topic 页扫描（search API，per_page=30）仓库集合与 11-24 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 477.1k、anthropics/skills 破 200k、ponytail 198.1k、taste-skill 121.1k、hyperframes 89.6k、impeccable 116.3k、humanizer 73.2k 等）。会话存档读取第 20 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 792 无更新；anthropics/skills 最新提交仍 11-16，无会话记忆类新 skill；blader/humanizer 最新提交仍 11-19（本地 v2.2.0 已覆盖该同步点），无需重同步。topic 页本次未出现会话记忆/跨会话改进类新 skill，无新装。**无更好替代品情形；无删除项**。
-- 2026-11-24：topic 页扫描（search API，per_page=30）仓库集合与 11-23 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 475.6k、anthropics/skills 199.5k、ponytail 197.5k、taste-skill 120.7k、impeccable 115.6k、humanizer 72.7k 等）。会话存档读取第 19 次被权限拒绝（shell grep 与 Grep 工具均被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 794 无更新；anthropics/skills 自 11-16 后无新提交，无会话记忆类新 skill；blader/humanizer 最新提交仍 11-19（本地 v2.2.0 已覆盖该同步点），无需重同步。topic 页本次未出现会话记忆/跨会话改进类新 skill，无新装。**无更好替代品情形；无删除项**。
 ## Skill 审查记录
 
-- 2026-11-23：topic 页扫描（search API，per_page=30）出现集合变化：**heygen-com/hyperframes（88.4k，AI 视频编辑 skill，写 HTML 渲染 MP4，HeyGen 出品）新进榜并收录至"营销与内容增长"类目（可作游戏宣传视频制作参照）；topoteretes/cognee 跌出 top-30**（跨会话类目保留条目并注明）；另补录此前遗漏的 mvanhorn/last30days-skill（72.9k，多平台选题调研综述）至"营销与内容增长"。Stars 全量刷新（rea 474.4k、anthropics/skills 199.1k、ponytail 197.0k、taste-skill 120.2k、impeccable 115.1k、humanizer 72.4k 等）。会话存档读取第 18 次被权限拒绝，沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 794 无更新；anthropics/skills 自 11-16 后无新提交，无会话记忆类新 skill；blader/humanizer 最新提交仍 11-19（本地 v2.2.0 已覆盖该同步点），无需重同步。topic 页本次未出现会话记忆/跨会话改进类新 skill，无新装。**无更好替代品情形；无删除项**。- 2026-11-22：topic 页扫描（search API，per_page=30）仓库集合与 11-17 完全一致（30 个，无新增/减少；marketingskills 与 diagram-design 已在清单中），仅刷新 Stars 与日期（rea 472.9k、anthropics/skills 198.6k、ponytail 196.4k、taste-skill 119.8k、impeccable 114.6k、paperclip 115.7k 等）。会话存档读取第 17 次被权限拒绝（shell ls 与 Grep 工具均被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 794 无更新；anthropics/skills 最新提交仍 11-16（docx/pptx/xlsx 修复，非新 skill），无会话记忆类新增，无需新装。**blader/humanizer 自 11-02 同步后有实质更新（v4.0.0 放开"补充真实细节"限制；11-19 新增非正式文本不过度编辑规则、§4 "the part" 信号、§2 "Overall/Ultimately" 收尾信号、模式编号校验修复），已于本次同步至本地 humanizer-zh v2.2.0（增量适配中文，改动：文体规则新增非正式文本条目、§2/§4 扩充、编辑约束允许真实细节、交付核对项放宽）**。无更好替代品情形；**无删除项**。
+- 2026-11-26：topic 页扫描（search API，per_page=30）仓库集合与 11-25 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 478.5k、anthropics/skills 200.5k、ponytail 198.7k、taste-skill 121.6k、hyperframes 90.2k、impeccable/archify/awesome-claude-code 更新至 11-26 等）。会话存档读取第 21 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 792 无更新；anthropics/skills 最新提交仍 11-16，无会话记忆类新 skill；blader/humanizer 最新提交仍 11-19（本地 v2.2.0 已覆盖该同步点），无需重同步。topic 页本次未出现会话记忆/跨会话改进类新 skill，无新装。**无更好替代品情形；无删除项**。
+- 2026-11-25：topic 页扫描（search API，per_page=30）仓库集合与 11-24 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 477.1k、anthropics/skills 破 200k、ponytail 198.1k、taste-skill 121.1k、hyperframes 89.6k、impeccable 116.3k、humanizer 73.2k 等）。会话存档读取第 20 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 792 无更新；anthropics/skills 最新提交仍 11-16，无会话记忆类新 skill；blader/humanizer 最新提交仍 11-19（本地 v2.2.0 已覆盖该同步点），无需重同步。topic 页本次未出现会话记忆/跨会话改进类新 skill，无新装。**无更好替代品情形；无删除项**。
+- 2026-11-24：topic 页扫描（search API，per_page=30）仓库集合与 11-23 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 475.6k、anthropics/skills 199.5k、ponytail 197.5k、taste-skill 120.7k、impeccable 115.6k、humanizer 72.7k 等）。会话存档读取第 19 次被权限拒绝（shell grep 与 Grep 工具均被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 794 无更新；anthropics/skills 自 11-16 后无新提交，无会话记忆类新 skill；blader/humanizer 最新提交仍 11-19（本地 v2.2.0 已覆盖该同步点），无需重同步。topic 页本次未出现会话记忆/跨会话改进类新 skill，无新装。**无更好替代品情形；无删除项**。
+- 2026-11-23：topic 页扫描（search API，per_page=30）出现集合变化：**heygen-com/hyperframes（88.4k，AI 视频编辑 skill，写 HTML 渲染 MP4，HeyGen 出品）新进榜并收录至"营销与内容增长"类目（可作游戏宣传视频制作参照）；topoteretes/cognee 跌出 top-30**（跨会话类目保留条目并注明）；另补录此前遗漏的 mvanhorn/last30days-skill（72.9k，多平台选题调研综述）至"营销与内容增长"。Stars 全量刷新（rea 474.4k、anthropics/skills 199.1k、ponytail 197.0k、taste-skill 120.2k、impeccable 115.1k、humanizer 72.4k 等）。会话存档读取第 18 次被权限拒绝，沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 794 无更新；anthropics/skills 自 11-16 后无新提交，无会话记忆类新 skill；blader/humanizer 最新提交仍 11-19（本地 v2.2.0 已覆盖该同步点），无需重同步。topic 页本次未出现会话记忆/跨会话改进类新 skill，无新装。**无更好替代品情形；无删除项**。
+- 2026-11-22：topic 页扫描（search API，per_page=30）仓库集合与 11-17 完全一致（30 个，无新增/减少；marketingskills 与 diagram-design 已在清单中），仅刷新 Stars 与日期（rea 472.9k、anthropics/skills 198.6k、ponytail 196.4k、taste-skill 119.8k、impeccable 114.6k、paperclip 115.7k 等）。会话存档读取第 17 次被权限拒绝（shell ls 与 Grep 工具均被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 794 无更新；anthropics/skills 最新提交仍 11-16（docx/pptx/xlsx 修复，非新 skill），无会话记忆类新增，无需新装。**blader/humanizer 自 11-02 同步后有实质更新（v4.0.0 放开"补充真实细节"限制；11-19 新增非正式文本不过度编辑规则、§4 "the part" 信号、§2 "Overall/Ultimately" 收尾信号、模式编号校验修复），已于本次同步至本地 humanizer-zh v2.2.0（增量适配中文，改动：文体规则新增非正式文本条目、§2/§4 扩充、编辑约束允许真实细节、交付核对项放宽）**。无更好替代品情形；**无删除项**。
 - 2026-11-17：topic 页扫描（search API，per_page=30）仓库集合与 11-16 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 464.4k、anthropics/skills 196.1k、ponytail 192.3k、taste-skill 117.0k、paperclip 114.4k、impeccable 111.5k、open-design 108.0k、archify 97.2k 等）。会话存档读取第 16 次被权限拒绝（shell grep 与 Grep 工具均被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 792 无更新；anthropics/skills 最新提交 11-16（docx/pptx/xlsx 的 zipfile/validate/soffice 修复，非新 skill），无会话记忆类新增，无需新装；blader/humanizer 更新日期与上次一致（11-10），humanizer-zh 无需重新同步。**无更好替代品情形；无删除项**。
 - 2026-11-16：topic 页扫描（search API，per_page=30）仓库集合与 11-15 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 461.9k、anthropics/skills 195.4k、ponytail 191.5k、taste-skill 116.2k、paperclip 114.1k、impeccable 110.7k、open-design 107.8k 等）。会话存档读取第 15 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 792 无更新；anthropics/skills 自 11-14T21:52 后无新提交，无会话记忆类新增，无需新装；blader/humanizer 更新日期与上次一致（11-10），humanizer-zh 无需重新同步。**无更好替代品情形；无删除项**。
 
-- 2026-11-15：topic 页扫描（search API，per_page=30）仓库集合与 11-14 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 459.9k、anthropics/skills 194.6k、ponytail 190.9k、taste-skill 115.6k、paperclip 113.9k、impeccable 110.2k、open-design 107.6k 等）。会话存档读取第 14 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 与 web-access 为用户主动安装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 792 无更新；anthropics/skills 最新提交 11-14（docx/pptx/xlsx/pdf 四个 Office skill 更新，非新 skill），无会话记忆类新增，无需新装；blader/humanizer 更新日期与上次一致（11-10），humanizer-zh 无需重新同步。**无更好替代品情形；无删除项**。
+- 2026-11-15：topic 页扫描（search API，per_page=30）仓库集合与 11-14 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 459.9k、anthropics/skills 194.6k、ponytail 190.9k、taste-skill 115.6k、paperclip 113.9k、impeccable 110.2k、open-design 107.6k 等）。会话存档读取第 14 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 为用户 11-08 新装；**web-access 为用户近期新装（本地目录 11-14 前后出现，联网访问类 skill），视作用户主动安装，保留**。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 790 无更新；anthropics/skills 最新提交 11-14（docx/pptx/xlsx/pdf 四个 Office skill 更新，非新 skill），无会话记忆类新增，无需新装；blader/humanizer 更新日期与上次一致（11-10），humanizer-zh 无需重新同步。**无更好替代品情形；无删除项**。
 
-- 2026-11-14：topic 页扫描（search API，per_page=30）仓库集合与 11-13 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 457.7k、anthropics/skills 194.1k、ponytail 190.4k、taste-skill 115.1k、paperclip 113.7k、impeccable 109.6k、open-design/archify 等）。会话存档读取第 13 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 为用户 11-08 新装；**web-access 为用户近期新装（本地目录 11-14 前后出现，联网访问类 skill），视作用户主动安装，保留**。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 790 无更新；anthropics/skills 最新提交仍 11-06，无会话记忆类新增，无需新装；blader/humanizer 更新日期与上次一致（11-10），humanizer-zh 无需重新同步。**无更好替代品情形；无删除项**。
+- 2026-11-14：topic 页扫描（search API，per_page=30）仓库集合与 11-13 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 457.7k、anthropics/skills 194.1k、ponytail 190.4k、taste-skill 115.1k、paperclip 113.7k、impeccable 109.6k、open-design/archify 等）。会话存档读取第 13 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 为用户 11-08 新装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 790 无更新；anthropics/skills 最新提交仍 11-06，无会话记忆类新增，无需新装；blader/humanizer 更新日期与上次一致（11-10），humanizer-zh 无需重新同步。**无更好替代品情形；无删除项**。
 
 - 2026-11-13：topic 页扫描（search API，per_page=30）仓库集合与 11-12 完全一致（30 个，无新增/减少），仅刷新 Stars 与日期（rea 455.2k、anthropics/skills 193.7k、ponytail 189.8k、taste-skill 114.3k、paperclip 113.4k、impeccable 破 109k 等）。会话存档读取第 12 次被权限拒绝（shell grep 与 Grep 工具均被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；novel-atlas 为用户 11-12 裁决恢复的受保护 skill；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 为用户 11-08 新装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 790 无更新；anthropics/skills 最新提交仍 11-06，无会话记忆类新增，无需新装；blader/humanizer 更新日期与上次一致（11-10），humanizer-zh 无需重新同步。**无更好替代品情形；无删除项**。
 - 2026-11-12：topic 页扫描（search API，per_page=30）发现集合变化：**emilkowalski/skills（56.1k，设计师/工程师 skill 集）新进榜并收录至"设计与反 AI slop"类目；alirezarezvani/claude-skills 跌出 top-30**（保留在过滤清单注明）；其余 28 个仓库与 11-11 一致，Stars 全量刷新（rea 452.7k、anthropics/skills 193.1k、ponytail 189.1k、taste-skill 113.6k、paperclip 113.2k、impeccable 108.3k 等）。会话存档读取第 11 次被权限拒绝（shell grep 被拒），沿用 2026-11-06 真实统计：grill-me 17 次（近7天3）、promo-atlas 4 次（近7天4），两者在最后可核实数据中均活跃，无理由删除；humanizer-zh/longform 受用户级 MEMORY.md 保护；self-improving-agent 为自动化工具 skill；mattpocock-skills__skillhub 为用户 11-08 新装，保留。上游复查：self-improving-agent pushed_at 仍 10-22、Stars 790 无更新；anthropics/skills 最新提交仍 11-06，19 个 skill 无会话记忆类新增，无需新装；blader/humanizer 更新日期与上次一致（11-10），humanizer-zh 无需重新同步。**无更好替代品情形；无删除项**。
